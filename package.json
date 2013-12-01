@@ -1,0 +1,20 @@
+{
+  "name": "connect-ntp",
+  "version": "0.1.1",
+  "description": "Connect Middleware for NTP like algorithm",
+  "dependencies": {
+    "connect": "2.x"
+  },
+  "devDependencies": {
+    "mocha": "1.x"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha test"
+  },
+  "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arunoda/laika.git"
+  },
+  "license": "MIT"
+}
